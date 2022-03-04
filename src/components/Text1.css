@@ -1,0 +1,34 @@
+.heading1{
+/* 
+width: 288px;
+height: 48px;
+left: 609px;
+top: 1267px; */
+margin-top: 50px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+color: #0651B8;
+}
+#para{
+    
+/* width: 1144px;
+height: 145px;
+left: 184px;
+top: 1330px; */
+
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 100px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+/* color: #18181F; */
+word-wrap:normal;
+}
