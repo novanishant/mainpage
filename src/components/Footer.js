@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <div>
       <center>
-          <img  id="image2" style={myStyle} src={handshake} alt="loading" />
+          <img  id="image2" src={handshake} alt="loading" />
           </center>
          
 

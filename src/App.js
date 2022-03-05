@@ -2,7 +2,7 @@
 import './App.css';
 import NavBar from './components/NavBar';
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
-import Footer from './components/Footer';
+import Footer1 from './components/Footer1';
 import Image1 from './components/Image1';
 import Text1 from './components/Text1';
 import Text2 from './components/Text2';
@@ -23,7 +23,7 @@ function App() {
     {/* <Cardgrid/> */}
     <Cardfloat/>
     <Text3/>
-    <Footer/>
+    <Footer1/>
     </Router>
   );
 }
