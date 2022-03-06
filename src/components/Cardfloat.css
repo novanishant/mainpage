@@ -4,28 +4,8 @@
 }
 .gallery__item {
   cursor: pointer;
-  margin: 25px;
-  padding: 25px;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 29px;
-}
-.gallery__item {
-  cursor: pointer;
-  padding: 25px;
-  margin: 25px;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 29px;
-}
-.gallery__item {
-  cursor: pointer;
-  margin: 25px;
-  padding: 25px;
+  margin: 10px;
+  padding: 5px;
   font-family: Inter;
   font-style: normal;
   font-weight: 600;
@@ -33,6 +13,9 @@
   line-height: 29px;
 }
 
+.finder{
+  margin-top: 100px;
+}
 .gallery__item--2 {
   margin-top: 25px;
   

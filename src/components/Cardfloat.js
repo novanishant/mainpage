@@ -8,7 +8,7 @@ const Cardfloat = () => {
 
       <br />
       <img src={pages} className="gallery__item" id="gallery__item--1" alt="loading"/>
-        <div className="gallery__item">
+        <div className="gallery__item finder">
         <h2>Finder</h2>
         <br />
         <span className="gallery__item--2">
@@ -16,7 +16,7 @@ const Cardfloat = () => {
           need
         </span>
       </div>
-      <div className="gallery__item">
+      <div className="gallery__item ">
         <h2>Messenger</h2>
         <br />
         <span className="gallery__item--3">

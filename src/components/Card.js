@@ -10,10 +10,10 @@ const Card = () => {
 <div class="row">
 
       <div className="content">
-        <p>
+        <span>
         Find,Collaborate, & Grow together @foundya
         <br></br>
-        </p>
+        </span>
         <span id="getStartedBtn"><Link  to="/" id="textInside">Get Started</Link>
         </span>
       </div>

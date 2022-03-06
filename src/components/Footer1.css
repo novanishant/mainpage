@@ -37,9 +37,4 @@ body {
     color: rgb(53, 53, 53);
   }
   
-  @media screen and (max-width: 850px) {
-    .row.primary {
-      grid-template-columns: 1fr;
-    }
-  
-  }
+ 
